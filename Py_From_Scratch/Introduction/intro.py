@@ -1,1 +1,1 @@
-print("hello there from the terminal")
+print("hello there from the terminal in the ubuntu environment")
