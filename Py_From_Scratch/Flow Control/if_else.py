@@ -1,4 +1,4 @@
-# Else...if statements
+ # Else...if statements
 school = "Dedan Kimathi University of Technology"
 if school == "Dedan Kimathi University of Technology" :
     print("Well Spelt")
@@ -19,10 +19,12 @@ num = 23456
 if num >= 0:
     if num == 0:
         print('Number is 0')
-
     else:
         print('Number is positive')
 else:
     print('Number is Negative')
 
 print("Hello world")
+
+value = not True
+print(value)

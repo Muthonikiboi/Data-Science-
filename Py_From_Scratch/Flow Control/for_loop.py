@@ -1,4 +1,4 @@
-# lists
+ # lists
 schools = ["Dekut", "UON", "MMU", "Chuka"]
 # iterate though the list
 for i in schools:
