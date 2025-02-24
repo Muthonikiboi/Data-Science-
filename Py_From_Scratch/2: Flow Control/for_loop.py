@@ -10,5 +10,10 @@ for x in school:
     print(x)
 
 # Using Range # output os from 0-99
-for t in range(100):
-    print(t)
+# for t in range(100):
+#     print(t)
+
+for y in range(0, 5):
+    if y == 3 :
+        continue
+    print(y)
