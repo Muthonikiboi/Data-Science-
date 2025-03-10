@@ -1,0 +1,98 @@
+[
+  {
+    "meta": {
+      "view": {
+        "id": "K3cd-yu9d",
+        "name": "2001 Campaign Expenditures",
+        "attribution": "Campaign Finance Board (CFB)",
+        "category": "City Government",
+        "createdAt": 1315950581,
+        "description": "A Listing of expenditures for candidates for City office during the 2001 election cycle",
+        "displayType": "table",
+        "downloadCount": 1314,
+        "viewCount": 527,
+        "viewType": "tabular",
+        "columns": [
+          {
+            "id": -1,
+            "name": "sid",
+            "dataTypeName": "meta_data",
+            "fieldName": ":sid",
+            "flags": ["hidden"]
+          },
+          {
+            "id": -1,
+            "name": "id",
+            "dataTypeName": "meta_data",
+            "fieldName": ":id",
+            "flags": ["hidden"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "meta": {
+      "view": {
+        "id": "A2bz-xv9w",
+        "name": "2010 Public Health Reports",
+        "attribution": "Department of Health",
+        "category": "Public Health",
+        "createdAt": 1408950581,
+        "description": "Public health reports and statistics for the year 2010",
+        "displayType": "table",
+        "downloadCount": 1890,
+        "viewCount": 635,
+        "viewType": "tabular",
+        "columns": [
+          {
+            "id": -1,
+            "name": "sid",
+            "dataTypeName": "meta_data",
+            "fieldName": ":sid",
+            "flags": ["hidden"]
+          },
+          {
+            "id": -1,
+            "name": "id",
+            "dataTypeName": "meta_data",
+            "fieldName": ":id",
+            "flags": ["hidden"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "meta": {
+      "view": {
+        "id": "B4jk-pm6t",
+        "name": "2015 Traffic Violations",
+        "attribution": "City Police Department",
+        "category": "Law Enforcement",
+        "createdAt": 1445950581,
+        "description": "A record of traffic violations recorded in 2015",
+        "displayType": "table",
+        "downloadCount": 2145,
+        "viewCount": 789,
+        "viewType": "tabular",
+        "columns": [
+          {
+            "id": -1,
+            "name": "sid",
+            "dataTypeName": "meta_data",
+            "fieldName": ":sid",
+            "flags": ["hidden"]
+          },
+          {
+            "id": -1,
+            "name": "id",
+            "dataTypeName": "meta_data",
+            "fieldName": ":id",
+            "flags": ["hidden"]
+          }
+        ]
+      }
+    }
+  }
+]
